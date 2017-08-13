@@ -11,7 +11,7 @@ h1 {
     font-size: 18px;
     color: white;
   }
-  h1, footer {
+  h1, footer, h4 {
       background-image: url("file://C:/Users/mbsk3/Documents/PROJECTS/Broadway/resources/images/building.png")
     }
 h2 {
@@ -24,4 +24,15 @@ h3 {
 }
 p {
   font-size: 14px;
+}
+h4 {
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+h5 {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+    text-align: left;
 }
